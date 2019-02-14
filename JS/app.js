@@ -22,7 +22,7 @@
 	info.update = function (props) {
 		this._div.innerHTML = '<h4>Delhi Demand Density</h4>' +  (props ?
 			'<b>' + props.WARD_NAME + '</b><br />' + props.density + ' Requests '
-			: 'Hover over a state');
+			: 'Hover over a city');
 	};
 
 	info.addTo(map);
@@ -79,11 +79,27 @@
 		map.fitBounds(e.target.getBounds());
 	}
 
+	function gMapReload(e) {
+		var cicId = "ChIJmSm2yJT9DDkRjygFhvdxAK4";
+		var coord = e.latlng;
+		var lat = coord.lat;
+		var lon = coord.lng;
+		// console.log("You clicked the map at latitude: " + lat + " and longitude: " + lon);
+		var reload = "<iframe width='500' height='450' frameborder='0' style='border:0'";
+		reload += "src='https://www.google.com/maps/embed/v1/directions?origin=place_id:"+cicId+"&destination="+lat+","+lon+"&key=AIzaSyB4VIRQy7MBfOztHtc_SdlEk6x1YdS9rBw' allowfullscreen></iframe>";
+
+		document.getElementById("route").innerHTML = reload;
+	}
+
 	function onEachFeature(feature, layer) {
 		layer.on({
 			mouseover: highlightFeature,
 			mouseout: resetHighlight,
 			click: zoomToFeature
+		});
+
+		layer.on({
+			click: gMapReload
 		});
 	}
 
