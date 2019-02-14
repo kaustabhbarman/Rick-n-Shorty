@@ -12,6 +12,49 @@
 
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.4.0/dist/leaflet.css" integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA==" crossorigin=""/>
     <script src="https://unpkg.com/leaflet@1.4.0/dist/leaflet.js" integrity="sha512-QVftwZFqvtRNi0ZyCtsznlKSWOStnDORoefr1enyq5mVL4tmKB3S/EnC3rRJcxCPavG10IcrVGSmPh6Qw5lwrg==" crossorigin=""></script>
+    <script src="https://d3js.org/d3-dsv.v1.min.js"></script>
+	<script src="https://d3js.org/d3-fetch.v1.min.js"></script>
+
+	<script type="text/javascript" src="JS/delhi.js"></script>
+
+
+<script type="text/javascript"> 
+
+// for (i in statesData.features) {
+// 	statesData.features[0].properties.density=200
+// }
+
+
+</script>
+
+
+	<script type="text/javascript">
+		var rows;
+
+
+		d3.csv("data.csv", function(d) {
+		  return {
+		    value : d.VALUE,
+		    id : d.MOVEMENT_ID,
+
+		  };
+		}).then(function(data) {
+		  rows = data;
+		  addDensity();
+		});
+
+		function addDensity() {
+		
+
+			for (x in statesData.features){
+
+					statesData.features[x].properties.density=rows[x].value;
+
+				}
+
+
+			}
+</script>
 
 
 	<style>
