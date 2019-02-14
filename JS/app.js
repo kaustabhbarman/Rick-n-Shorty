@@ -1,4 +1,3 @@
-
 	var map = L.map('map').setView([28.6, 77.2], 10.5);
 
 	L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NXVycTA2emYycXBndHRqcmZ3N3gifQ.rJcFIG214AriISLbB6B5aw', {
@@ -21,7 +20,7 @@
 
 	info.update = function (props) {
 		this._div.innerHTML = '<h4>Delhi Demand Density</h4>' +  (props ?
-			'<b>' + props.WARD_NAME + '</b><br />' + props.density + ' Requests '
+			'<b>' +props.WARD_NAME + '</b><br />' + props.density + ' Requests '
 			: 'Hover over a city');
 	};
 
