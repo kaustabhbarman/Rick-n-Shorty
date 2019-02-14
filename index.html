@@ -75,20 +75,20 @@
 <body>
 <div class="container">
 	<div id='map'></div>
-	<div id="route">
-		<iframe width="500" height="450" frameborder="0" style="border:0"
- src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJmSm2yJT9DDkRjygFhvdxAK4&key=AIzaSyB4VIRQy7MBfOztHtc_SdlEk6x1YdS9rBw" allowfullscreen></iframe>
+	<div id="route" data-loc="ChIJcZcxM_TkDDkRtpFJvLUOKWs">
+		<iframe width="500" height="450" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJcZcxM_TkDDkRtpFJvLUOKWs&key=AIzaSyB4VIRQy7MBfOztHtc_SdlEk6x1YdS9rBw" allowfullscreen></iframe>
 	</div>
+	<dir id="location">
+		<button onclick="changeLoc('ChIJcZcxM_TkDDkRtpFJvLUOKWs')">Location 1</button>  
+		<button onclick="changeLoc('ChIJKc0NNbbmDDkR_c2HSXA-MB4')">Location 2</button>  
+		<button onclick="changeLoc('ChIJi3fh1Vz9DDkRkQvh1gH36Q4')">Location 3</button>  
+		<button onclick="changeLoc('ChIJ__-vmMXjDDkRT66N2NCmf60')">Location 4</button>
+	</dir>
 </div>
 
-
-
-
+<script type="text/javascript" src="JS/map.js"></script>
+<script type="text/javascript" src="JS/delhi.js"></script>
 <script type="text/javascript" src="JS/app.js"></script>
-
-
-
-
 
 </body>
 </html>
