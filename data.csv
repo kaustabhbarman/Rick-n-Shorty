@@ -1,291 +1,291 @@
-WARD_NAME,MOVEMENT_ID,DISPLAY_NAME,VALUE
-DELHI CANTT CHARGE 1,1,"300 Ring Road, Block CB, Naraina Village, Naraina, New Delhi",988
-DELHI CANTT CHARGE 2,2,"Unnamed Road, Delhi Cantonment, New Delhi",300
-DELHI CANTT CHARGE 4,3,"Unnamed Road, Mahipalpur, New Delhi",11
-DELHI CANTT CHARGE 5,4,"P-268/3, Rock View, Delhi Cantonment, Delhi",197
-DELHI CANTT CHARGE 6,5,"Old Palam Road, Delhi Cantonment, New Delhi",830
-DELHI CANTT CHARGE 7,6,"Unnamed Road, CVD Line, Delhi Cantonment, New Delhi",362
-DELHI CANTT CHARGE 8,7,"P 13, Baird Place, Delhi Cantonment, New Delhi",353
-DELHI CANTT CHARGE 3,8,"Mall Road, Khyber Lines, Delhi Cantonment, New Delhi",603
-NDMC CHARGE 1,9,"Mahatma Jyothi Rao Phule Marg, Mahatma Jyoti Rao Phule Marg Area, New Delhi",406
-NDMC CHARGE 2,10,"0 Shaheed Bhagat Singh Marg, DIZ Staff Quarters, Connaught Place, New Delhi",165
-NDMC CHARGE 3,11,"Mother Teresa Crescent, Talkatora Garden, Central Ridge Reserve Forest, New Delhi",977
-NDMC CHARGE 4,12,"Jantar Mantar Road, Janpath, Connaught Place, New Delhi",433
-NDMC CHARGE 5,13,"10, Aurangzeb Road, New Delhi",714
-NDMC CHARGE 7,14,"Mahatma Gandhi Road, Kidwai Nagar West, Kidwai Nagar, New Delhi",872
-NDMC CHARGE 8,15,"H205, Block H, Sarojini Nagar, New Delhi",744
-NDMC CHARGE 9,16,"Andre Malraux Marg, Ramnagar, Chanakyapuri, New Delhi",789
-NDMC CHARGE 6,17,"0 Khanna Market Road, Aliganj, Lodi Colony, New Delhi",58
-CHANDNI CHOWK,18,"Unnamed Road, Lal Qila, Chandni Chowk, New Delhi",301
-MINTO ROAD,19,"Mirdard Road, 64 Khamba, Maulana Azad Medical College Campus, New Delhi",889
-KUCHA PANDIT,20,"4400 Gali Shahtara, Kaccha Pandit Main Bazar, Lal Kuan Bazar, Old Delhi, New Delhi",956
-BAZAR SITARAM,21,"3800 Prem Narain Road, Hauz Qazi, Sitaram Bazar, Delhi",743
-IDGAH ROAD,22,"500 Fasil Road, Farash Khana, Chandni Chowk, New Delhi",660
-KHYALA,23,"nullStreet Number 5 NA Block, NA Block, Khayala, Vishnu Garden, नई दिल्ली",926
-JANAK PURI NORTH,24,"268, Block B2, Shiv Nagar, Janakpuri, New Delhi",660
-MUKHERJEE NAGAR,25,"nullNehru Vihar Road, B Block, A Block, Nehru Vihar, Mukherjee Nagar, Delhi",219
-JANAK PURI WEST,26,"A3-214, Asalatpur Village, Janakpuri, Delhi",696
-JANAK PURI SOUTH,27,"0 Ram Mandir Marg, C5B Block, Janakpuri, New Delhi",380
-MILAP NAGAR,28,"nullSchool Road, Block M, Uttam Nagar, Delhi",692
-SITA PURI,29,"Street Number 14, Block C, Sitapuri Part 1, Janakpuri, New Delhi",143
-CHHAWLA,30,"Unnamed Road, Asalatpur Khadar, Delhi",238
-NANGLI SAKRAVATI,31,"Main Jhatikra Road, Paprawat, Delhi",637
-KAKRAULA,32,"METRO MALL, Pocket 1, Sector 14 Dwarka, Dwarka, New Delhi",251
-KHERA,33,"Unnamed Road, Samashpur Khalsa, Delhi",607
-DILSHAD GARDEN,34,"5/3, East Nathu Colony, GTB Enclave, Dilshad Garden, Delhi",625
-NEW SEEMA PURI,35,"A/15, Block A, Dilshad Colony New Simapuri, Dilshad Garden, Delhi",359
-NAND NAGRI,36,"A3-83, Block A, Nand Nagri, Village Mandoli, Delhi",999
-SUNDER NAGARI,37,"nullStreet Number 4, Block J, Sunder Nagri, Dilshad Garden, Delhi",81
-DURGA PURI,38,"526, Sakdarpur, Shahdara, Delhi",447
-ASHOK NAGAR,39,"nullGali Number 16, West Jyoti Nagar, Ashok Nagar Mandoli, Ashok Nagar, Shahdara, Delhi",731
-RAM NAGAR,40,"Gali Saini Tent, Ram Nagar, Shahdara, Delhi",280
-WELCOME COLONY,41,"Lala Raghubar Dayal Marg, Phase 4, Block B, Subhash Park, Shahdara, Delhi",201
-CHAUHAN BANGER,42,"Street Number 30/6, New Seelampur, Chauhan Banger, Shahdara, Delhi",362
-ZAFFRABAD,43,"A537, New Seelampur Phase II, New Seelampur, Shahdara, Delhi",250
-MAUJPUR,44,"100 Maujpur Main Road, Maujpur, Shahdara, Delhi",425
-GHONDA,45,"nullGali Number 2, Tonga Patti Chauhan, Block C, Ghonda, Shahdara, Delhi",144
-YAMUNA VIHAR,46,"256, Block C 2, Bhajanpura, Tukhmirpur, Delhi",467
-SUBHASH MOHALLA,47,"Street Number 10, Block C, North Ghonda, Shahdara, Delhi",909
-KARDAM PURI,48,"Kardam Marg, Block B, Kabir Nagar, Shahdara, Delhi",310
-JANTA COLONY,49,"1/10068, New Jaffrabad, Shahdara, Delhi",189
-BABAR PUR,50,"Saraswati Marg, Babarpur Village, Babarpur, Delhi",888
-JIWANPUR,51,"Gali number 4, Ambedkar Colony, Dagarpur Mohalla, Johripur, Delhi",408
-GOKALPUR,52,"202, Block D, Ganga Vihar, Gokalpuri, Delhi",628
-SABOLI,53,"Sewa Dham Road, Saboli, Delhi",43
-HARSH VIHAR,54,"500 Street Number 30, Block D, Harsh Vihar, Village Mandoli, Delhi",757
-SHIV VIHAR,55,"33 Feet Road, Phase 2, Shiv Vihar, Karawal Nagar, Delhi",432
-KARAWAL NAGAR EAST,56,"Gali Number 4, Bhagat Vihar, Dayalpur, New Mustafabad, Delhi",418
-MUSTAFABAD,57,"Angad Singh Marg, Nehru Vihar, Block B, Old Mustafabad, New Mustafabad, Delhi",625
-KHAJOORI KHAS,58,"Pushta Road, Block A, Rajiv Nagar, Sonia Vihar, Delhi",753
-KARAWAL NAGAR WEST,59,"100 Gali number 4, E-Block, Phase 4, Shiv Vihar, Karawal Nagar, Delhi",163
-SONIA VIHAR,60,"nullGali Number 31, Sonia Vihar, New Delhi",445
-NIZAMUDDIN,61,"Unnamed Road, National Zoological Park, Sundar Nagar, New Delhi",324
-BHOGAL,62,"D/116, Jeewan Nagar, Sunlight Colony, New Delhi",700
-KASTURBA NAGAR,63,"Jawaharlal Nehru Stadium Marg, CGO Complex, Pragati Vihar, New Delhi",916
-AMAR COLONY,64,"6/37, Vikram Vihar, Lajpat Nagar IV, Lajpat Nagar, New Delhi",980
-MALVIYA NAGAR,65,"Shaheed Jeet Singh Marg, NCERT Campus, Qutab Institutional Area, New Delhi",190
-HAUZ RANI,66,"nullBhagat Singh Market Marg, Block K, Malviya Nagar, New Delhi",524
-ANDREWSGANJ,67,"63/33, Hudco Place, Andrews Ganj Extension, Andrews Ganj, New Delhi",196
-VASANT VIHAR,68,"0 Paschimi Marg, Block E, Vasant Vihar, New Delhi",351
-MUNIRKA,69,"1129, Sector 2 R K Puram, Sector 2, RK Puram, New Delhi",94
-NANAK PURA,70,"G288, Sector 3, Block G, Nanak Pura, South Moti Bagh, New Delhi",23
-VASANTKUNJ,71,"JNU Ring Road, Jawaharlal Nehru University, New Delhi",541
-DAKSHINPURI EXT.,72,"7/254, Dakshinpuri Extension, Block 7, Sector 6, Dakshinpuri, New Delhi",422
-KHANPUR,73,"0 Central Avenue, Block E, Sainik Farm, New Delhi",710
-AMBEDKAR NAGAR,74,"F-269, Ambedkar Nagar, Block F, Sector 5, Dakshinpuri, New Delhi",498
-MADANGIR,75,"B-299, Ambedkar Nagar, Block B, Sector 5, Dakshinpuri, New Delhi",221
-PUSHP VIHAR,76,"124, SPG Quarters, Sector 4, Pushp Vihar, New Delhi",790
-TUGHLAKABAD EXTN,77,"0 Mehrauli - Badarpur Road, Tughlakabad Institutional Area, Vayusenabad, New Delhi",41
-SANGAM VIHAR CENTRAL,78,"Gali Number 15, Block I, Block J 2, Devli, Sangam Vihar, New Delhi",284
-SANGAM VIHAR EAST,79,"Shooting Range Road, Asola Wild Life Sanctuary, Asola, New Delhi",245
-CHIRAG DELHI,80,"E-492, Block E, Greater Kailash II, Greater Kailash, New Delhi",72
-CHITRANJAN PARK,81,"126, Block L 1, Alaknanda, New Delhi",310
-SHAPUR JAT,82,"286, Asian Games Village Complex, Siri Fort, New Delhi",602
-GREATER KAILASH-I,83,"C2, Block C, Kailash Colony, Greater Kailash, New Delhi",151
-SRI NIWASPURI,84,"nullMathura Road, Friends Colony West, Block A, New Friends Colony, New Delhi",129
-EAST OF KAILASH,85,"Outer Ring Road, Block 13, Nehru Enclave East, Okhla Industrial Area, New Delhi",268
-GOVIND PURI,86,"100 Kalkaji Main Road, Bhoomiheen Camp, Govindpuri, New Delhi",978
-KALKAJI,87,"0 Maharaja Agarsen Marg, Subash Khand, Giri Nagar, Kalkaji, New Delhi",737
-TUGHLAKABAD,88,"Krishan Marg, Tughlaqabad Village, Tughlakabad, New Delhi",451
-PUL PEHLAD,89,"A15/2, Chungi No 2, Kotla Mahingiran, Lal Kuan, New Delhi",357
-TEKHAND,90,"C-86, Pocket C, Okhla Phase I, Okhla Industrial Area, New Delhi",654
-HARKESH NAGAR,91,"nullTum Road, Sanjay Colony II, Sanjay Colony, Okhla Phase II, Okhla Industrial Area, New Delhi",236
-JAITPUR,92,"nullGali Number 9, Block G, Jaitpur Extension Part II, Khadda Colony, Jaitpur, New Delhi",203
-MEETHEYPUR,93,"0 Molarband School Road, Lakhpat Colony, Mithapur, Badarpur",699
-BADAR PUR,94,"2212, Gautampuri Awas, Badarpur, New Delhi",62
-MOLARBAND,95,"Hanuman Mandir Road, Block B, Molar band Extension, Badarpur, New Delhi",429
-OKHLA,96,"0 Street Number 9, Noor Nagar Extension, Noor Nagar, Okhla, New Delhi",643
-TURKMAN GATE,97,"1664, Bazar Chitli Qabar, Hauz Suiwalan, Chandni Chowk, New Delhi",597
-BALLIMARAN,98,"2200 Gali Qasim Jan, Balli Maran, Baradari, Chandni Chowk, New Delhi",419
-RAM NAGAR,99,"100 Street Number 1, Amar Puri, Ram Nagar, Paharganj, New Delhi",860
-QASABPURA,100,"Maharishi Balmiki Marg, Police Colony, Sarai Khalil, Sadar Bazaar, New Delhi",712
-PAHAR GANJ,101,"4900 Ramdwara Road, Chuna Mandi, Aram Bagh, Paharganj, New Delhi",92
-SADH NAGAR,102,"nullGali Number 1A, Kailash Puri, Manglapuri, New Delhi",957
-PUSA,103,"nullDasghara Road, Dasghara, New Delhi",592
-INDER PURI,104,"nullArya Samaj Marg, Block A1, Block EA, Inder Puri, New Delhi",587
-NARAINA,105,"nullGoswami Girdhari Lal Marg, Industrial Area Phase I, Block C, Naraina Industrial Area Phase 1, Naraina, New Delhi",106
-DEOLI,106,"IGNOU Residential Campus Road, Rocky Area, Stone Quarries, Maidan Garhi, New Delhi",123
-CHHATARPUR,107,"1100 Zia UL Haq Road, Block A1, Chattarpur, Chhattarpur, New Delhi",959
-AYA NAGAR,108,"Unnamed Road, Block G, Bhim Basti, Jaunapur, New Delhi",941
-BHATI,109,"Main Chhatarpur Road, Bhatti Kalan, New Delhi",915
-MADANPUR KHADAR,110,"Pusta Road, Madanpur Khadar Phase 3, Madanpur Khadar, New Delhi",311
-SARITA VIHAR,111,"61 TO 80, Pocket J, Sarita Vihar, New Delhi",335
-GHONDLI,112,"F-8, West Chandra Nagar, Chander Nagar, Krishna Nagar, Delhi",409
-ANARKALI,113,"P-132, Anarkali Colony, Krishna Nagar, Delhi",972
-GANDHI NAGAR,114,"9/434, Gandhi Nagar, Seelampur, Shahdara, Delhi",363
-AZAD NAGAR,115,"0 Street Number 3, Azad Nagar, Azad Nagar East, Seelampur, Krishna Nagar, Delhi",271
-RAGHUBAR PURA,116,"9/5284, Shanti Mohalla, Seelampur, Shahdara, Delhi",551
-SHAHDARA,117,"B533, Bhola Nath Nagar, Block B, Shahdara, Delhi",617
-JHILMIL,118,"0 Circular Road, Jawala Nagar, Shahdara, Delhi",94
-VIVEK VIHAR,119,"81, Zulfe Bengal, Dilshad Garden, Delhi",240
-DILSHAD COLONY,120,"50, Pocket J & K, Dilshad Garden, Delhi",167
-PUNJABI BAGH,121,"22/55, West Punjabi Bagh, Punjabi Bagh, Delhi",842
-NEW RANJIT NAGAR,122,"2600 Mandir Wali Gali, Ranjeet Nagar, Shadipur, Delhi",583
-KIRTI NAGAR,123,"Loknath Marg, Block M, Kirti Nagar, New Delhi",867
-MANSAROWER GARDEN,124,"30, 31, Block B, Mansarover Garden, New Delhi",422
-HASTSAL,125,"Shaheed Chander Shekhar Azad Marg, Laxmi Park, Ranhola Extesion, Delhi",49
-SANGAM PARK,126,"nullSwami Narayan Underpass Road, Block E, Sangam Park, Ashok Vihar, Delhi",815
-MODEL TOWN,127,"NDPL House, Lala Achintaram Marg, Block B, Gujranwala Town, Delhi",720
-KAMLA NAGAR,128,"0 Shakti Mandir Marg, Block 10, Shakti Nagar, Delhi",609
-INDER LOK COLONY,129,"Gali Number 8, Anand Parbat, New Delhi",731
-KISHAN GANJ,130,"Bhagat Singh Marg, Kashmiri Bagh, Chandra Shekhar Azad Colony, Sarai Rohilla, New Delhi",541
-DEPUTY GANJ,131,"4400 Gali Bahuji, Pahari Dhiraj, Sadar Bazaar, Delhi",682
-KASHMERE GATE,132,"1600 Lothian Road, Chabi Ganj, Kashmere Gate, New Delhi",796
-MAJNU KA TILA,133,"0 Raj Niwas Marg, Ludlow Castle, Civil Lines, Delhi",69
-JAMA MASJID,134,"Hotel de Romana, Kasturba Hospital Marg, Kalan Mahal, Old Delhi, New Delhi",906
-TILAK NAGAR,135,"0 Uggarsen Market Road, Meenakshi Garden, Ashok Nagar, Delhi",457
-MAJOR BHUPINDAR SINGH NAGAR,136,"nullKeshopur Road, New Chaukhandi, Paschim Vihar, Delhi",813
-VIKASPURI EAST,137,"nullRoad Number 235, Block H, Vikaspuri, Delhi",736
-MOHAN GARDEN,138,"Gali Number 11, Vipin Garden Extension, Laxmi Vihar, Nawada, Delhi",445
-NAWADA,139,"nullBudh Bazar Road, Nawada, Nawada Majra Village, Nawada, Delhi",992
-UTTAM NAGAR,140,"A12/B, Sainik Nagar, Mansa Ram Park, Uttam Nagar, Delhi",198
-BINDAPUR,141,"nullBindapur Matiala Road, Nand Ram Park, Bhagat Enclave, Bindapur, Delhi",592
-DABRI,142,"Gali Number 1, Dabri Village, Dabri, New Delhi",592
-MATIALA,143,"nullRoad Number 221, Pocket 1, Sector 10 Dwarka, Dwarka, Delhi",471
-ROSHANPURA,144,"Najafgarh Road, Indra Park, Block A, Masudabad, Najafgarh, Delhi",828
-MAYUR VIHAR PHASE-I,145,"0 Trilok Puri Road, Block 15, Part 2, Mayur Vihar Phase 1, New Delhi",550
-ROHINI,146,"nullKotla Road, Pocket F2, Pocket 1, Sector 11F, Rohini, Delhi",682
-DALLOPURA,147,"0 Trilok Puri Road, Subhash Market, Block 15, Part 2, Mayur Vihar Phase 1, New Delhi",45
-TRILOK PURI,148,"Unnamed Road, Patparganj, New Delhi",876
-NEW ASHOK NAGAR,149,"Bharati Road, Block C 2, Block D, New Ashok Nagar, Delhi",605
-KALYAN PURI,150,"Rajeev Gandhi Marg, Block 12, Kalyan Puri, Delhi",777
-KHICHRIPUR,151,"Shaheed Budh Ram Singh Marg, Dallupura, New Delhi",681
-KONDLI,152,"nullGharoli Main Road, Kondli Extension, Kondli, Delhi",668
-GHAROLI,153,"0 Vivekanand Marg, Pocket A 3, Sector C, Mayur Vihar Phase III, नई दिल्ली",924
-VINOD NAGAR,154,"nullGali Number 6, Block B, Block D, Vinod Nagar North, Delhi",321
-ASHOK VIHAR,155,"Maharaja Agaersen Road, Block D, Pocket D, Phase 1, Ashok Vihar, Delhi",313
-WAJIRPUR,156,"Doctor Satpal Sachdeva Marg, Keshav Puram, Tri Nagar, Delhi",760
-SAWAN PARK,157,"CH Devender Singh Tewatia Marg, Ashok Vihar II, Pocket B 1, Phase 3, Ashok Vihar, Delhi",922
-NIMRI COLONY,158,"484, Block E, Nimri Colony, Ashok Vihar, Delhi",763
-SHAKUR PUR,159,"300 Maharishi Balmiki Mandir Marg, Block H, Shakurpur Colony, Pitampura, Delhi",19
-KOHAT ENCLAVE,160,"23, Shiva Enclave, Pitampura, Delhi",281
-RAMPURA,161,"nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi",466
-TRI NAGAR,162,"2400 Pt Govind Ram Shastri Marg, Ganeshpura, Tri Nagar, Delhi",805
-SARASWATI VIHAR,163,"0 Guru Harkishan Marg, Maulana Azad Society, Bhagwan Buddha Housing Corporation Society, Pitampura, Delhi",59
-RANI BAGH,164,"Shakurbasti Pedestrian Foot Over Bridge, Shakur Basti Railway Colony, Railway Colony South, Pitampura, Delhi",155
-PASCHIM VIHAR NORTH,165,"31, Cottage Enclave, Paschim Vihar, Delhi",689
-PASCHIM VIHAR SOUTH,166,"nullRBI Enclave Road, Ankur Enclave, Paschim Vihar, Delhi",841
-SHALIMAR BAGH SOUTH,167,"nullShaheed Udham Singh Marg, AE Block, Poorbi Shalimar Bag, Shalimar Bagh, Delhi",445
-SHALIMAR BAGH NORTH,168,"nullGyan Shakti Mandir Marg, Block BA, West Shalimar Bagh, Shalimar Bagh, Delhi",350
-PITAMPUR NORTH,169,"G-9, Block F 1U, Ranikhet, Pitampura, Delhi",424
-PITAMPURA SOUTH,170,"nullColony Road, Block QP, Poorvi Pitampura, Pitampura, Delhi",519
-NAHARPUR,171,"nullG Block Road, Pocket 21, Sector 7G, Rohini, Delhi",185
-ROHINI EAST,172,"nullShiva Road, Pocket 14, Sector 8D, Rohini, Delhi",680
-ROHINI CENTRAL,173,"Unnamed Road, Swarn Jayanti Park, Sector 10, Rohini, Delhi",921
-MANGOLPURI WEST,174,"Road Number 316, Mangol Puri Industrial Area Phase I, Block Q, Mangolpuri, Delhi",63
-MANGOLPURI EAST,175,"235, Block E, Block E, Mangolpuri, Delhi",428
-ROHINI SOUTH,176,"B7-187, Pocket 7, Sector 3B, Rohini, Delhi",47
-QUAMMRUDDIN NAGAR,177,"Chaudhary Hemveer Chandela Marg, DDA Park Nihal Vihar, Nangloi, Delhi",352
-NANGLOI EAST,178,"I334, Saini Mohalla, Shiv Vihar, Nangloi, Delhi",157
-PERAGHARHI,179,"0 AB Road, Block RR, Mianwali Nagar, Paschim Vihar, Delhi",568
-GURU HARKISHAN NAGAR,180,"GH-14/234, GH 14, Block GH 14, Paschim Vihar, Delhi",178
-SULTANPURI SOUTH,181,"F6-214, Block F 6, Sultanpuri, Delhi",578
-SULTANPURI EAST,182,"C2/5, Block C2, Sultanpuri, Delhi",746
-KIRARI SULEMAN NAGAR,183,"400 Devi Ahilya Bai Holkar Marg, Block W, Prem Nagar I, Prem Nagar, Delhi",745
-KARALA,184,"Tau Bihari Marg, Ladpur, Delhi",99
-BEGUMPUR,185,"Bawana Road, Puth Khurd, Delhi",794
-POOTH KALAN,186,"14, Sector 21, Rohini, Delhi",55
-VIJAY VIHAR,187,"60, Vijay Vihar Phase II, Pocket C, Sector 1, Rohini, Delhi",329
-GEETA COLONY,188,"12/188, Shastri Nagar, Geeta Colony, New Delhi",582
-KRISHNA NAGAR,189,"F22, Block F, Krishna Nagar, Delhi",959
-PREET VIHAR,190,"F-33, Block F, Preet Vihar, Delhi",498
-I.P EXTENTION,191,"0 Hasanpur, I.P.Extension, Patparganj, Delhi",659
-ANAND VIHAR,192,"0 Bhartendu Harish Chandra Marg, Ram Vihar, Anand Vihar, Delhi",769
-YAMUNA RIVER,193,"Unnamed Road, Usmanpur, Shahdara, Delhi",0
-SHAKARPUR,194,"nullGali Number 1, Block G, Block A, Shakarpur, Delhi",928
-LAXMI NAGAR,195,"F-208/C, Block F, Laxmi Nagar, New Delhi",765
-RITHALA,196,"nullSir Chotu Ram Marg, Pocket 4, Sector 6C, Rohini, Delhi",995
-MAYUR VIHAR PHASE II,197,"177-B, Mayur Vihar Phase 2, Pocket B, Mayur Vihar, New Delhi",425
-MANDAWALI,198,"Gouri Sankar Road, Railway Colony, Mandawali, New Delhi",830
-KARAM PURA,199,"0 Shivaji Marg, New Moti Nagar, Najafgarh Road Industrial Area, Delhi",828
-MAHAVIR ENCLAVE,200,"Dabri - Gurgaon Road, Pocket 2, Sector 1 Dwarka, Dwarka, New Delhi",641
-SAGARPUR,201,"nullGali Number 2, Block D, Uttam Nagar, Sagar Pur, New Delhi",22
-SAGARPUR WEST,202,"A12/481, Madan Puri, West Sagarpur, Sagar Pur, New Delhi",681
-MUNDAKA,203,"Shahid Hav. Ved Prakash Sharma Marg, Netaji Subhash Vihar, Mundka, Delhi",870
-EAST PATEL NAGAR,204,"0 East Patel Nagar Road, Block 10A, East Patel Nagar, Patel Nagar, New Delhi",443
-WEST PATEL NAGAR,205,"2100 Gali Number 14, Block B, Prem Nagar, Patel Nagar, New Delhi",734
-DEV NAGAR,206,"0 Arya Samaj Road, Block 12B, Dev Nagar, Karol Bagh, New Delhi",648
-KAROL BAGH,207,"0 Maharana Pratap Road, Block 53, Karol Bagh, New Delhi",510
-MODEL BASTI,208,"Desh Bandhu Gupta Road, Block E, Jhandewalan Extension, Jhandewalan, New Delhi",297
-RANA PRATAP BAGH,209,"nullMaharaja Agarsen Marg, Block A, CC Colony, Kalyan Vihar, नई दिल्ली",987
-BAKHTAWAR PUR,210,"Unnamed Road, Bakhtawar Pur, Bakhtawarpur, Delhi",221
-ALIPUR,211,"Holambi Main Road, Iradat Nagar, Delhi",688
-SAHIBABAD DAULAT PUR,212,"Bawana Road, Sector 30, Rohini, Delhi",68
-BANKNER,213,"Lampur Road, Om Vihar Colony, Bankner, Delhi",489
-MALKAGANJ,214,"Doctor Bhim Rao Ambedkar Marg, Block H, Malka Ganj, Delhi",175
-JHARODA,215,"Unnamed Road, Bagiabad, Jharoda Majra Burari, Delhi",909
-MUKUND PUR,216,"0 Main Canal Road, Harit Vihar, Mukandpur Part 2, Mukundpur, Delhi",258
-BAWANA,217,"Auchandi Bawana Road, Daryapur, Bawana, Delhi",165
-BHALSWA,218,"nullTandoor Wali Gali, Swami Shraddhanand Park, Bhalswa Dairy, Jahangirpura, Delhi",440
-SAMAYPUR BADLI,219,"461, Block AG, Sanjay Gandhi Transport Nagar, Delhi",921
-JAHANGIRPURI-I,220,"Shah Alam Bandh Marg, Adarsh Nagar Extension, Adarsh Nagar, Delhi",728
-SARAI PIPAL THALA,221,"Srinagar - Kanyakumari Highway, Bhalswa Jahangirpuri, Jahangirpuri, Delhi",484
-MAHIPALPUR,222,"Sector E, Mahipalpur Village, Vasant Kunj, New Delhi",110
-KAPASHERA,223,"Urban Extension Road II, Indira Gandhi International Airport, New Delhi",734
-BIJWASAN,224,"Main Road, Bharthal, Sector 27 Dwarka, Bharthal, New Delhi",808
-ADARASH NAGAR,225,"0 Netaji Road, A Block, Block C, Adarsh Nagar, Delhi",772
-DHIR PUR,226,"Unnamed Road, Model Town, Delhi",807
-G.T.B. NAGAR,227,"300 Lok Marg, Dhaka Colony, Mukherjee Nagar, Delhi",524
-TIMAR PUR,228,"0 Lucknow Road, Banarsi Das Estate, Timarpur, Delhi",258
-RAJA GARDEN,229,"200 Road Number 28, Nehru Nagar, Shivaji Place, Basai Dara pur, Tagore Garden Extension, New Delhi",962
-RAGHUBIR NAGAR,230,"N494, Block N, Raghubir Nagar, Tagore Garden Extension, Delhi",66
-RAJOURI GARDEN,231,"G-17/6, Block G, Rajouri Garden, New Delhi",311
-NANGAL RAYA,232,"4-3, Mayapuri Industrial Area Phase II, Mayapuri, New Delhi",556
-HARI NAGAR,233,"nullSatguru Ram Singh Marg, Block B, Mayapuri Industrial Area Phase I, Mayapuri, New Delhi",213
-SUBHASH NAGAR,234,"113, Press Colony, Press Colony, Mayapuri, New Delhi",232
-MADHU VIHAR,235,"nullBharat Vihar Road, Block G, Raja Puri, Matiala, Delhi",227
-BUDH VIHAR,236,"nullRithala Road, Pocket A, Budh Vihar Phase I, Budh Vihar, Delhi",862
-NANGLOI JAT WEST,237,"121, Assam Timber Market, Gulshan Park, Mundka, Delhi",53
-NITHARI,238,"Ekta Marg, Sewak Park, Mubarakpur Dabas, Delhi",594
-SULTANPUR MAJRA,239,"nullSultanpuri, सुल्तानपुरी, Block E 4, Ratan Vihar, Sultanpuri, Delhi",829
-ROHINI NORTH,240,"37, Sector 15, Pocket 6, Sector 15B, Rohini, Delhi",860
-LIBAS PUR,241,"Foot Road, Libas Pur Village, Siraspur, Delhi",973
-BRAHAM PURI,242,"nullGali Number 2, Jagjeet Nagar, Shahdara, Delhi",137
-DICHAON KALAN,243,"Unnamed Road, Block B, Chanchal Park Colony, Dichaon Kalan, Delhi",207
-MOTI NAGAR,244,"Dhingra Park Trail, Punjabi Bagh Cooperative Housing Soceity, East Punjabi Bagh, Punjabi Bagh, Delhi",398
-MANGOLPURI,245,"N-1/17, Block M, Mangolpuri, Delhi",912
-LAJPAT NAGAR,246,"nullShiv Mandir Marg, Block G, Lajpat Nagar I, Lajpat Nagar, New Delhi",342
-PALAM,247,"9/2082, Pocket 2, Block RZ, Palam Colony, New Delhi",538
-KISHANGARH,248,"Unnamed Road, Harijan Basti, Rajokri, New Delhi",455
-VISHWASH NAGAR,249,"46, M.S Park, Vishwas Nagar, Shahdara, Delhi",701
-MADIPUR,250,"719B, Madipur JJ Colony, Block B, Janta Colony, Paschim Vihar, Delhi",906
-RAJENDER NAGAR,251,"A25, Block R, Pocket A, Rajender Nagar Part 1, New Rajinder Nagar, New Delhi",350
-R. K. PURAM,252,"813, Sector 1, RK Puram, New Delhi",522
-SAFDARJANG ENCLAVE,253,"0 Chaudhary Harsukh Marg, B6, Block B6, Humayunpur, Safdarjung Enclave, New Delhi",331
-HAUZ KHAS,254,"Squadron Leader Mohinder Kumar Jain Marg, Block B, New Delhi",153
-KOTLA MUBARAKPUR,255,"1700 Uday Chand Marg, Arya Basti, Zafar Nagar, Kotla Mubarakpur, South Extension I, New Delhi",9
-MANGLAPURI,256,"D-70, Mahavir Enclave I, Mahavir Enclave Part 2, Mahavir Enclave, New Delhi",925
-MANGOL PURI NORTH,257,"y 788, Block W, Mangolpur Khurd, Mangolpuri, नई दिल्ली",853
-TAGORE GARDEN,258,"Sant Sujan Singh Marg, JJ Colony, Block N, Tagore Garden, Tagore Garden Extension, New Delhi",135
-LADOSARAI,259,"Jogging Lane, Pocket B-C, Sector-A, Vasant Kunj, New Delhi",825
-NARELA,260,"Unnamed Road, Sector A1, Narela, Delhi",944
-BHALASWA JAHAGIR PUR,261,"Nangli Ibrahimpur Road, Kadipur, Kushak Colony, Kadipur Village, Delhi",835
-BURARI,262,"110084, Suleman Majra Burari, Burari, Delhi",141
-PATPARGANJ,263,"200 Pirwali Gali, Block P, Block P, Patparganj, New Delhi",760
-PANDAV NAGAR,264,"Noida Link Road, Nehru Enclave, Shakarpur Khas, New Delhi",869
-KISHAN KUNJ,265,"0 Lane Number 8, Krishan Kunj Extension Part 2, Block G, Vishwakarma Park, Laxmi Nagar, Delhi",559
-DHARAMPURA,266,"Yamuna Marginal Bandh Marg, Block A, Shastri Park, Jagjit Nagar, New Delhi",371
-NEW USMANPUR,267,"nullPanduk Shila Marg, Kaithwara Jagjivan Nagar, New Usmanpur, Shahdara, Delhi",913
-BHAJANPURA,268,"null5th Pustha Road, Block B, Bhajanpura, Shahdara, Delhi",275
-NEHRU VIHAR,269,"Street Number 2, Chandu Nagar, New Mustafabad, Delhi",547
-SAID UL AJAIB,270,"Unnamed Road, Asola Wild Life Sanctuary, Asola, New Delhi",66
-SANGAM VIHAR,271,"UER II, Asola Wild Life Sanctuary, Maidan Garhi, New Delhi",845
-MEHRAULI,272,"Anuvrat Marg, Butterfly Park, Qila Rai Pithora, Mehrauli, New Delhi",864
-SANGAM VIHAR WEST,273,"0 Pt Surya Pandey Marg, Devli, Block C, Devli, Sangam Vihar, New Delhi",611
-TIGRI,274,"295/5, Block L 2, Devli, Sangam Vihar, New Delhi",249
-ZAKIR NAGAR,275,"125/16, Jogabai Extension, Zakir Nagar, Okhla, New Delhi",318
-NAJAFGARH,276,"MCD Office, South delhi, Najafgarh Dhansa Road, Najafgarh Village, Najafgarh, Delhi",211
-JAHANGIR PURI -II,277,"700 Outer Ring Road, Bhalswa Jahangir Village, Jahangirpuri, नई दिल्ली",321
-KUNWAR SINGH NAGAR,278,"nullNangloi - Najafgarh Road, Brahampuri Colony, Kotla Vihar Phase 2, Ranhola, Delhi",538
-VIKAS NAGAR,279,"Nightingale Road, Budella, Vikaspuri, Delhi",238
-VIKAS PURI,280,"nullHastsal Road, Block A2, JJ Colony, Uttam Nagar, Delhi",612
-MAHAVIR NAGAR,281,"D915, New Mahavir Nagar, Tilak Nagar, Delhi",693
-DARYAGANJ,282,"Velodrome Road, Gandhi Smriti, Raj Ghat, New Delhi",220
-BALJIT NAGAR,283,"nullVijay Marg, Block B, Baljit Nagar, Patel Nagar, New Delhi",389
-NILOTHI,284,"8/2, Rajendra Park, Nangloi Extension, Kamruddin Nagar, Delhi",36
-PRATAP VIHAR,285,"y 1019, Dharam Enclave, Prem Nagar II, Prem Nagar, Delhi",932
-PREM NAGAR,286,"Prem Nagar - Rohini Road, Pratap Vihar Part III, Nithari, Baljit Vihar, Delhi",862
-SHASTRI NAGAR,287,"L47, Block L, Shastri Nagar, Delhi",85
-VISHNU GARDEN,288,"WZ287, DDA Colony, Chand Nagar, Vishnu Garden, Delhi",863
-TUKHMIR PUR,289,"Tukmirpur Road, Biharipur Extension, Biharipur Village, Biharipur, Delhi",277
-RAJ NAGAR,290,"Railway Road, Block F, Raj Nagar Extension, Raj Nagar, New Delhi",279
+WARD_NAME,MOVEMENT_ID,DISPLAY_NAME,VALUE,VALUE_2,VALUE_3,VALUE_4
+DELHI CANTT CHARGE 1,1,"300 Ring Road, Block CB, Naraina Village, Naraina, New Delhi",988,449,204,886
+DELHI CANTT CHARGE 2,2,"Unnamed Road, Delhi Cantonment, New Delhi",300,753,273,622
+DELHI CANTT CHARGE 4,3,"Unnamed Road, Mahipalpur, New Delhi",11,253,809,875
+DELHI CANTT CHARGE 5,4,"P-268/3, Rock View, Delhi Cantonment, Delhi",197,890,943,743
+DELHI CANTT CHARGE 6,5,"Old Palam Road, Delhi Cantonment, New Delhi",830,146,599,738
+DELHI CANTT CHARGE 7,6,"Unnamed Road, CVD Line, Delhi Cantonment, New Delhi",362,999,553,185
+DELHI CANTT CHARGE 8,7,"P 13, Baird Place, Delhi Cantonment, New Delhi",353,862,959,12
+DELHI CANTT CHARGE 3,8,"Mall Road, Khyber Lines, Delhi Cantonment, New Delhi",603,296,579,921
+NDMC CHARGE 1,9,"Mahatma Jyothi Rao Phule Marg, Mahatma Jyoti Rao Phule Marg Area, New Delhi",406,307,686,78
+NDMC CHARGE 2,10,"0 Shaheed Bhagat Singh Marg, DIZ Staff Quarters, Connaught Place, New Delhi",165,8,976,970
+NDMC CHARGE 3,11,"Mother Teresa Crescent, Talkatora Garden, Central Ridge Reserve Forest, New Delhi",977,679,273,109
+NDMC CHARGE 4,12,"Jantar Mantar Road, Janpath, Connaught Place, New Delhi",433,164,970,959
+NDMC CHARGE 5,13,"10, Aurangzeb Road, New Delhi",714,526,500,774
+NDMC CHARGE 7,14,"Mahatma Gandhi Road, Kidwai Nagar West, Kidwai Nagar, New Delhi",872,717,774,708
+NDMC CHARGE 8,15,"H205, Block H, Sarojini Nagar, New Delhi",744,413,405,459
+NDMC CHARGE 9,16,"Andre Malraux Marg, Ramnagar, Chanakyapuri, New Delhi",789,117,207,828
+NDMC CHARGE 6,17,"0 Khanna Market Road, Aliganj, Lodi Colony, New Delhi",58,97,459,245
+CHANDNI CHOWK,18,"Unnamed Road, Lal Qila, Chandni Chowk, New Delhi",301,760,929,714
+MINTO ROAD,19,"Mirdard Road, 64 Khamba, Maulana Azad Medical College Campus, New Delhi",889,897,494,156
+KUCHA PANDIT,20,"4400 Gali Shahtara, Kaccha Pandit Main Bazar, Lal Kuan Bazar, Old Delhi, New Delhi",956,453,812,221
+BAZAR SITARAM,21,"3800 Prem Narain Road, Hauz Qazi, Sitaram Bazar, Delhi",743,511,577,427
+IDGAH ROAD,22,"500 Fasil Road, Farash Khana, Chandni Chowk, New Delhi",660,621,898,160
+KHYALA,23,"nullStreet Number 5 NA Block, NA Block, Khayala, Vishnu Garden, नई दिल्ली",926,909,310,866
+JANAK PURI NORTH,24,"268, Block B2, Shiv Nagar, Janakpuri, New Delhi",660,632,79,606
+MUKHERJEE NAGAR,25,"nullNehru Vihar Road, B Block, A Block, Nehru Vihar, Mukherjee Nagar, Delhi",219,256,148,535
+JANAK PURI WEST,26,"A3-214, Asalatpur Village, Janakpuri, Delhi",696,4,236,304
+JANAK PURI SOUTH,27,"0 Ram Mandir Marg, C5B Block, Janakpuri, New Delhi",380,76,689,301
+MILAP NAGAR,28,"nullSchool Road, Block M, Uttam Nagar, Delhi",692,285,479,788
+SITA PURI,29,"Street Number 14, Block C, Sitapuri Part 1, Janakpuri, New Delhi",143,142,772,255
+CHHAWLA,30,"Unnamed Road, Asalatpur Khadar, Delhi",238,832,350,496
+NANGLI SAKRAVATI,31,"Main Jhatikra Road, Paprawat, Delhi",637,316,213,236
+KAKRAULA,32,"METRO MALL, Pocket 1, Sector 14 Dwarka, Dwarka, New Delhi",251,316,850,531
+KHERA,33,"Unnamed Road, Samashpur Khalsa, Delhi",607,766,277,8
+DILSHAD GARDEN,34,"5/3, East Nathu Colony, GTB Enclave, Dilshad Garden, Delhi",625,732,237,528
+NEW SEEMA PURI,35,"A/15, Block A, Dilshad Colony New Simapuri, Dilshad Garden, Delhi",359,552,602,425
+NAND NAGRI,36,"A3-83, Block A, Nand Nagri, Village Mandoli, Delhi",999,671,289,492
+SUNDER NAGARI,37,"nullStreet Number 4, Block J, Sunder Nagri, Dilshad Garden, Delhi",81,69,485,86
+DURGA PURI,38,"526, Sakdarpur, Shahdara, Delhi",447,795,568,820
+ASHOK NAGAR,39,"nullGali Number 16, West Jyoti Nagar, Ashok Nagar Mandoli, Ashok Nagar, Shahdara, Delhi",731,795,996,395
+RAM NAGAR,40,"Gali Saini Tent, Ram Nagar, Shahdara, Delhi",280,802,418,985
+WELCOME COLONY,41,"Lala Raghubar Dayal Marg, Phase 4, Block B, Subhash Park, Shahdara, Delhi",201,648,816,791
+CHAUHAN BANGER,42,"Street Number 30/6, New Seelampur, Chauhan Banger, Shahdara, Delhi",362,211,952,534
+ZAFFRABAD,43,"A537, New Seelampur Phase II, New Seelampur, Shahdara, Delhi",250,902,9,472
+MAUJPUR,44,"100 Maujpur Main Road, Maujpur, Shahdara, Delhi",425,156,213,229
+GHONDA,45,"nullGali Number 2, Tonga Patti Chauhan, Block C, Ghonda, Shahdara, Delhi",144,825,771,75
+YAMUNA VIHAR,46,"256, Block C 2, Bhajanpura, Tukhmirpur, Delhi",467,789,171,678
+SUBHASH MOHALLA,47,"Street Number 10, Block C, North Ghonda, Shahdara, Delhi",909,655,104,753
+KARDAM PURI,48,"Kardam Marg, Block B, Kabir Nagar, Shahdara, Delhi",310,407,205,972
+JANTA COLONY,49,"1/10068, New Jaffrabad, Shahdara, Delhi",189,541,52,584
+BABAR PUR,50,"Saraswati Marg, Babarpur Village, Babarpur, Delhi",888,404,367,165
+JIWANPUR,51,"Gali number 4, Ambedkar Colony, Dagarpur Mohalla, Johripur, Delhi",408,385,264,87
+GOKALPUR,52,"202, Block D, Ganga Vihar, Gokalpuri, Delhi",628,510,135,761
+SABOLI,53,"Sewa Dham Road, Saboli, Delhi",43,475,367,611
+HARSH VIHAR,54,"500 Street Number 30, Block D, Harsh Vihar, Village Mandoli, Delhi",757,646,54,488
+SHIV VIHAR,55,"33 Feet Road, Phase 2, Shiv Vihar, Karawal Nagar, Delhi",432,807,759,207
+KARAWAL NAGAR EAST,56,"Gali Number 4, Bhagat Vihar, Dayalpur, New Mustafabad, Delhi",418,645,290,714
+MUSTAFABAD,57,"Angad Singh Marg, Nehru Vihar, Block B, Old Mustafabad, New Mustafabad, Delhi",625,245,227,600
+KHAJOORI KHAS,58,"Pushta Road, Block A, Rajiv Nagar, Sonia Vihar, Delhi",753,417,486,137
+KARAWAL NAGAR WEST,59,"100 Gali number 4, E-Block, Phase 4, Shiv Vihar, Karawal Nagar, Delhi",163,748,691,229
+SONIA VIHAR,60,"nullGali Number 31, Sonia Vihar, New Delhi",445,324,47,666
+NIZAMUDDIN,61,"Unnamed Road, National Zoological Park, Sundar Nagar, New Delhi",324,270,935,791
+BHOGAL,62,"D/116, Jeewan Nagar, Sunlight Colony, New Delhi",700,979,720,235
+KASTURBA NAGAR,63,"Jawaharlal Nehru Stadium Marg, CGO Complex, Pragati Vihar, New Delhi",916,487,962,519
+AMAR COLONY,64,"6/37, Vikram Vihar, Lajpat Nagar IV, Lajpat Nagar, New Delhi",980,900,435,554
+MALVIYA NAGAR,65,"Shaheed Jeet Singh Marg, NCERT Campus, Qutab Institutional Area, New Delhi",190,156,960,384
+HAUZ RANI,66,"nullBhagat Singh Market Marg, Block K, Malviya Nagar, New Delhi",524,702,93,116
+ANDREWSGANJ,67,"63/33, Hudco Place, Andrews Ganj Extension, Andrews Ganj, New Delhi",196,884,172,217
+VASANT VIHAR,68,"0 Paschimi Marg, Block E, Vasant Vihar, New Delhi",351,146,886,79
+MUNIRKA,69,"1129, Sector 2 R K Puram, Sector 2, RK Puram, New Delhi",94,24,979,464
+NANAK PURA,70,"G288, Sector 3, Block G, Nanak Pura, South Moti Bagh, New Delhi",23,125,958,249
+VASANTKUNJ,71,"JNU Ring Road, Jawaharlal Nehru University, New Delhi",541,195,476,739
+DAKSHINPURI EXT.,72,"7/254, Dakshinpuri Extension, Block 7, Sector 6, Dakshinpuri, New Delhi",422,385,192,203
+KHANPUR,73,"0 Central Avenue, Block E, Sainik Farm, New Delhi",710,656,834,383
+AMBEDKAR NAGAR,74,"F-269, Ambedkar Nagar, Block F, Sector 5, Dakshinpuri, New Delhi",498,790,215,830
+MADANGIR,75,"B-299, Ambedkar Nagar, Block B, Sector 5, Dakshinpuri, New Delhi",221,536,11,839
+PUSHP VIHAR,76,"124, SPG Quarters, Sector 4, Pushp Vihar, New Delhi",790,847,263,274
+TUGHLAKABAD EXTN,77,"0 Mehrauli - Badarpur Road, Tughlakabad Institutional Area, Vayusenabad, New Delhi",41,857,766,672
+SANGAM VIHAR CENTRAL,78,"Gali Number 15, Block I, Block J 2, Devli, Sangam Vihar, New Delhi",284,193,795,109
+SANGAM VIHAR EAST,79,"Shooting Range Road, Asola Wild Life Sanctuary, Asola, New Delhi",245,156,778,680
+CHIRAG DELHI,80,"E-492, Block E, Greater Kailash II, Greater Kailash, New Delhi",72,706,418,634
+CHITRANJAN PARK,81,"126, Block L 1, Alaknanda, New Delhi",310,460,191,520
+SHAPUR JAT,82,"286, Asian Games Village Complex, Siri Fort, New Delhi",602,926,826,792
+GREATER KAILASH-I,83,"C2, Block C, Kailash Colony, Greater Kailash, New Delhi",151,23,839,919
+SRI NIWASPURI,84,"nullMathura Road, Friends Colony West, Block A, New Friends Colony, New Delhi",129,295,644,187
+EAST OF KAILASH,85,"Outer Ring Road, Block 13, Nehru Enclave East, Okhla Industrial Area, New Delhi",268,945,952,894
+GOVIND PURI,86,"100 Kalkaji Main Road, Bhoomiheen Camp, Govindpuri, New Delhi",978,159,572,172
+KALKAJI,87,"0 Maharaja Agarsen Marg, Subash Khand, Giri Nagar, Kalkaji, New Delhi",737,752,966,682
+TUGHLAKABAD,88,"Krishan Marg, Tughlaqabad Village, Tughlakabad, New Delhi",451,872,767,564
+PUL PEHLAD,89,"A15/2, Chungi No 2, Kotla Mahingiran, Lal Kuan, New Delhi",357,559,765,222
+TEKHAND,90,"C-86, Pocket C, Okhla Phase I, Okhla Industrial Area, New Delhi",654,262,712,157
+HARKESH NAGAR,91,"nullTum Road, Sanjay Colony II, Sanjay Colony, Okhla Phase II, Okhla Industrial Area, New Delhi",236,638,747,426
+JAITPUR,92,"nullGali Number 9, Block G, Jaitpur Extension Part II, Khadda Colony, Jaitpur, New Delhi",203,749,294,760
+MEETHEYPUR,93,"0 Molarband School Road, Lakhpat Colony, Mithapur, Badarpur",699,715,237,133
+BADAR PUR,94,"2212, Gautampuri Awas, Badarpur, New Delhi",62,747,357,534
+MOLARBAND,95,"Hanuman Mandir Road, Block B, Molar band Extension, Badarpur, New Delhi",429,361,468,281
+OKHLA,96,"0 Street Number 9, Noor Nagar Extension, Noor Nagar, Okhla, New Delhi",643,826,382,36
+TURKMAN GATE,97,"1664, Bazar Chitli Qabar, Hauz Suiwalan, Chandni Chowk, New Delhi",597,195,805,560
+BALLIMARAN,98,"2200 Gali Qasim Jan, Balli Maran, Baradari, Chandni Chowk, New Delhi",419,970,306,988
+RAM NAGAR,99,"100 Street Number 1, Amar Puri, Ram Nagar, Paharganj, New Delhi",860,71,164,703
+QASABPURA,100,"Maharishi Balmiki Marg, Police Colony, Sarai Khalil, Sadar Bazaar, New Delhi",712,488,349,660
+PAHAR GANJ,101,"4900 Ramdwara Road, Chuna Mandi, Aram Bagh, Paharganj, New Delhi",92,232,673,156
+SADH NAGAR,102,"nullGali Number 1A, Kailash Puri, Manglapuri, New Delhi",957,562,60,35
+PUSA,103,"nullDasghara Road, Dasghara, New Delhi",592,665,891,808
+INDER PURI,104,"nullArya Samaj Marg, Block A1, Block EA, Inder Puri, New Delhi",587,959,633,591
+NARAINA,105,"nullGoswami Girdhari Lal Marg, Industrial Area Phase I, Block C, Naraina Industrial Area Phase 1, Naraina, New Delhi",106,377,57,370
+DEOLI,106,"IGNOU Residential Campus Road, Rocky Area, Stone Quarries, Maidan Garhi, New Delhi",123,779,743,178
+CHHATARPUR,107,"1100 Zia UL Haq Road, Block A1, Chattarpur, Chhattarpur, New Delhi",959,267,880,663
+AYA NAGAR,108,"Unnamed Road, Block G, Bhim Basti, Jaunapur, New Delhi",941,464,877,33
+BHATI,109,"Main Chhatarpur Road, Bhatti Kalan, New Delhi",915,732,150,757
+MADANPUR KHADAR,110,"Pusta Road, Madanpur Khadar Phase 3, Madanpur Khadar, New Delhi",311,562,242,323
+SARITA VIHAR,111,"61 TO 80, Pocket J, Sarita Vihar, New Delhi",335,188,221,579
+GHONDLI,112,"F-8, West Chandra Nagar, Chander Nagar, Krishna Nagar, Delhi",409,802,170,43
+ANARKALI,113,"P-132, Anarkali Colony, Krishna Nagar, Delhi",972,110,21,620
+GANDHI NAGAR,114,"9/434, Gandhi Nagar, Seelampur, Shahdara, Delhi",363,773,724,725
+AZAD NAGAR,115,"0 Street Number 3, Azad Nagar, Azad Nagar East, Seelampur, Krishna Nagar, Delhi",271,640,602,62
+RAGHUBAR PURA,116,"9/5284, Shanti Mohalla, Seelampur, Shahdara, Delhi",551,790,735,547
+SHAHDARA,117,"B533, Bhola Nath Nagar, Block B, Shahdara, Delhi",617,884,623,157
+JHILMIL,118,"0 Circular Road, Jawala Nagar, Shahdara, Delhi",94,693,279,824
+VIVEK VIHAR,119,"81, Zulfe Bengal, Dilshad Garden, Delhi",240,280,226,187
+DILSHAD COLONY,120,"50, Pocket J & K, Dilshad Garden, Delhi",167,293,537,26
+PUNJABI BAGH,121,"22/55, West Punjabi Bagh, Punjabi Bagh, Delhi",842,492,303,978
+NEW RANJIT NAGAR,122,"2600 Mandir Wali Gali, Ranjeet Nagar, Shadipur, Delhi",583,810,317,501
+KIRTI NAGAR,123,"Loknath Marg, Block M, Kirti Nagar, New Delhi",867,985,5,323
+MANSAROWER GARDEN,124,"30, 31, Block B, Mansarover Garden, New Delhi",422,23,375,437
+HASTSAL,125,"Shaheed Chander Shekhar Azad Marg, Laxmi Park, Ranhola Extesion, Delhi",49,925,970,259
+SANGAM PARK,126,"nullSwami Narayan Underpass Road, Block E, Sangam Park, Ashok Vihar, Delhi",815,408,11,628
+MODEL TOWN,127,"NDPL House, Lala Achintaram Marg, Block B, Gujranwala Town, Delhi",720,244,29,277
+KAMLA NAGAR,128,"0 Shakti Mandir Marg, Block 10, Shakti Nagar, Delhi",609,988,860,287
+INDER LOK COLONY,129,"Gali Number 8, Anand Parbat, New Delhi",731,513,641,347
+KISHAN GANJ,130,"Bhagat Singh Marg, Kashmiri Bagh, Chandra Shekhar Azad Colony, Sarai Rohilla, New Delhi",541,959,45,475
+DEPUTY GANJ,131,"4400 Gali Bahuji, Pahari Dhiraj, Sadar Bazaar, Delhi",682,194,340,892
+KASHMERE GATE,132,"1600 Lothian Road, Chabi Ganj, Kashmere Gate, New Delhi",796,88,8,783
+MAJNU KA TILA,133,"0 Raj Niwas Marg, Ludlow Castle, Civil Lines, Delhi",69,298,332,908
+JAMA MASJID,134,"Hotel de Romana, Kasturba Hospital Marg, Kalan Mahal, Old Delhi, New Delhi",906,212,997,399
+TILAK NAGAR,135,"0 Uggarsen Market Road, Meenakshi Garden, Ashok Nagar, Delhi",457,705,755,488
+MAJOR BHUPINDAR SINGH NAGAR,136,"nullKeshopur Road, New Chaukhandi, Paschim Vihar, Delhi",813,322,710,350
+VIKASPURI EAST,137,"nullRoad Number 235, Block H, Vikaspuri, Delhi",736,737,871,133
+MOHAN GARDEN,138,"Gali Number 11, Vipin Garden Extension, Laxmi Vihar, Nawada, Delhi",445,90,853,786
+NAWADA,139,"nullBudh Bazar Road, Nawada, Nawada Majra Village, Nawada, Delhi",992,924,708,207
+UTTAM NAGAR,140,"A12/B, Sainik Nagar, Mansa Ram Park, Uttam Nagar, Delhi",198,150,688,365
+BINDAPUR,141,"nullBindapur Matiala Road, Nand Ram Park, Bhagat Enclave, Bindapur, Delhi",592,551,998,472
+DABRI,142,"Gali Number 1, Dabri Village, Dabri, New Delhi",592,338,233,108
+MATIALA,143,"nullRoad Number 221, Pocket 1, Sector 10 Dwarka, Dwarka, Delhi",471,643,104,194
+ROSHANPURA,144,"Najafgarh Road, Indra Park, Block A, Masudabad, Najafgarh, Delhi",828,10,384,428
+MAYUR VIHAR PHASE-I,145,"0 Trilok Puri Road, Block 15, Part 2, Mayur Vihar Phase 1, New Delhi",550,993,213,519
+ROHINI,146,"nullKotla Road, Pocket F2, Pocket 1, Sector 11F, Rohini, Delhi",682,625,211,342
+DALLOPURA,147,"0 Trilok Puri Road, Subhash Market, Block 15, Part 2, Mayur Vihar Phase 1, New Delhi",45,642,287,24
+TRILOK PURI,148,"Unnamed Road, Patparganj, New Delhi",876,908,915,607
+NEW ASHOK NAGAR,149,"Bharati Road, Block C 2, Block D, New Ashok Nagar, Delhi",605,347,926,25
+KALYAN PURI,150,"Rajeev Gandhi Marg, Block 12, Kalyan Puri, Delhi",777,316,83,751
+KHICHRIPUR,151,"Shaheed Budh Ram Singh Marg, Dallupura, New Delhi",681,831,581,59
+KONDLI,152,"nullGharoli Main Road, Kondli Extension, Kondli, Delhi",668,21,136,529
+GHAROLI,153,"0 Vivekanand Marg, Pocket A 3, Sector C, Mayur Vihar Phase III, नई दिल्ली",924,240,524,875
+VINOD NAGAR,154,"nullGali Number 6, Block B, Block D, Vinod Nagar North, Delhi",321,135,246,320
+ASHOK VIHAR,155,"Maharaja Agaersen Road, Block D, Pocket D, Phase 1, Ashok Vihar, Delhi",313,125,997,797
+WAJIRPUR,156,"Doctor Satpal Sachdeva Marg, Keshav Puram, Tri Nagar, Delhi",760,58,553,648
+SAWAN PARK,157,"CH Devender Singh Tewatia Marg, Ashok Vihar II, Pocket B 1, Phase 3, Ashok Vihar, Delhi",922,10,948,769
+NIMRI COLONY,158,"484, Block E, Nimri Colony, Ashok Vihar, Delhi",763,750,491,684
+SHAKUR PUR,159,"300 Maharishi Balmiki Mandir Marg, Block H, Shakurpur Colony, Pitampura, Delhi",19,437,252,796
+KOHAT ENCLAVE,160,"23, Shiva Enclave, Pitampura, Delhi",281,657,71,377
+RAMPURA,161,"nullLawrence Road, Rampura Industrial Area, Tri Nagar, Delhi",466,227,103,20
+TRI NAGAR,162,"2400 Pt Govind Ram Shastri Marg, Ganeshpura, Tri Nagar, Delhi",805,253,451,400
+SARASWATI VIHAR,163,"0 Guru Harkishan Marg, Maulana Azad Society, Bhagwan Buddha Housing Corporation Society, Pitampura, Delhi",59,836,5,924
+RANI BAGH,164,"Shakurbasti Pedestrian Foot Over Bridge, Shakur Basti Railway Colony, Railway Colony South, Pitampura, Delhi",155,669,192,660
+PASCHIM VIHAR NORTH,165,"31, Cottage Enclave, Paschim Vihar, Delhi",689,619,488,412
+PASCHIM VIHAR SOUTH,166,"nullRBI Enclave Road, Ankur Enclave, Paschim Vihar, Delhi",841,991,140,836
+SHALIMAR BAGH SOUTH,167,"nullShaheed Udham Singh Marg, AE Block, Poorbi Shalimar Bag, Shalimar Bagh, Delhi",445,60,825,168
+SHALIMAR BAGH NORTH,168,"nullGyan Shakti Mandir Marg, Block BA, West Shalimar Bagh, Shalimar Bagh, Delhi",350,686,407,655
+PITAMPUR NORTH,169,"G-9, Block F 1U, Ranikhet, Pitampura, Delhi",424,35,385,599
+PITAMPURA SOUTH,170,"nullColony Road, Block QP, Poorvi Pitampura, Pitampura, Delhi",519,954,289,869
+NAHARPUR,171,"nullG Block Road, Pocket 21, Sector 7G, Rohini, Delhi",185,540,799,962
+ROHINI EAST,172,"nullShiva Road, Pocket 14, Sector 8D, Rohini, Delhi",680,838,136,10
+ROHINI CENTRAL,173,"Unnamed Road, Swarn Jayanti Park, Sector 10, Rohini, Delhi",921,956,903,935
+MANGOLPURI WEST,174,"Road Number 316, Mangol Puri Industrial Area Phase I, Block Q, Mangolpuri, Delhi",63,167,736,412
+MANGOLPURI EAST,175,"235, Block E, Block E, Mangolpuri, Delhi",428,702,846,456
+ROHINI SOUTH,176,"B7-187, Pocket 7, Sector 3B, Rohini, Delhi",47,992,92,282
+QUAMMRUDDIN NAGAR,177,"Chaudhary Hemveer Chandela Marg, DDA Park Nihal Vihar, Nangloi, Delhi",352,28,829,588
+NANGLOI EAST,178,"I334, Saini Mohalla, Shiv Vihar, Nangloi, Delhi",157,451,439,105
+PERAGHARHI,179,"0 AB Road, Block RR, Mianwali Nagar, Paschim Vihar, Delhi",568,731,132,401
+GURU HARKISHAN NAGAR,180,"GH-14/234, GH 14, Block GH 14, Paschim Vihar, Delhi",178,929,619,96
+SULTANPURI SOUTH,181,"F6-214, Block F 6, Sultanpuri, Delhi",578,485,895,185
+SULTANPURI EAST,182,"C2/5, Block C2, Sultanpuri, Delhi",746,653,689,975
+KIRARI SULEMAN NAGAR,183,"400 Devi Ahilya Bai Holkar Marg, Block W, Prem Nagar I, Prem Nagar, Delhi",745,958,734,42
+KARALA,184,"Tau Bihari Marg, Ladpur, Delhi",99,789,228,494
+BEGUMPUR,185,"Bawana Road, Puth Khurd, Delhi",794,886,110,329
+POOTH KALAN,186,"14, Sector 21, Rohini, Delhi",55,700,522,890
+VIJAY VIHAR,187,"60, Vijay Vihar Phase II, Pocket C, Sector 1, Rohini, Delhi",329,165,303,65
+GEETA COLONY,188,"12/188, Shastri Nagar, Geeta Colony, New Delhi",582,236,241,908
+KRISHNA NAGAR,189,"F22, Block F, Krishna Nagar, Delhi",959,49,487,646
+PREET VIHAR,190,"F-33, Block F, Preet Vihar, Delhi",498,212,783,881
+I.P EXTENTION,191,"0 Hasanpur, I.P.Extension, Patparganj, Delhi",659,897,646,861
+ANAND VIHAR,192,"0 Bhartendu Harish Chandra Marg, Ram Vihar, Anand Vihar, Delhi",769,987,685,509
+YAMUNA RIVER,193,"Unnamed Road, Usmanpur, Shahdara, Delhi",0,417,670,34
+SHAKARPUR,194,"nullGali Number 1, Block G, Block A, Shakarpur, Delhi",928,596,230,390
+LAXMI NAGAR,195,"F-208/C, Block F, Laxmi Nagar, New Delhi",765,813,974,268
+RITHALA,196,"nullSir Chotu Ram Marg, Pocket 4, Sector 6C, Rohini, Delhi",995,884,396,170
+MAYUR VIHAR PHASE II,197,"177-B, Mayur Vihar Phase 2, Pocket B, Mayur Vihar, New Delhi",425,406,425,12
+MANDAWALI,198,"Gouri Sankar Road, Railway Colony, Mandawali, New Delhi",830,400,109,844
+KARAM PURA,199,"0 Shivaji Marg, New Moti Nagar, Najafgarh Road Industrial Area, Delhi",828,289,980,963
+MAHAVIR ENCLAVE,200,"Dabri - Gurgaon Road, Pocket 2, Sector 1 Dwarka, Dwarka, New Delhi",641,461,710,260
+SAGARPUR,201,"nullGali Number 2, Block D, Uttam Nagar, Sagar Pur, New Delhi",22,942,203,136
+SAGARPUR WEST,202,"A12/481, Madan Puri, West Sagarpur, Sagar Pur, New Delhi",681,878,542,342
+MUNDAKA,203,"Shahid Hav. Ved Prakash Sharma Marg, Netaji Subhash Vihar, Mundka, Delhi",870,620,971,316
+EAST PATEL NAGAR,204,"0 East Patel Nagar Road, Block 10A, East Patel Nagar, Patel Nagar, New Delhi",443,322,233,564
+WEST PATEL NAGAR,205,"2100 Gali Number 14, Block B, Prem Nagar, Patel Nagar, New Delhi",734,721,882,522
+DEV NAGAR,206,"0 Arya Samaj Road, Block 12B, Dev Nagar, Karol Bagh, New Delhi",648,45,108,761
+KAROL BAGH,207,"0 Maharana Pratap Road, Block 53, Karol Bagh, New Delhi",510,81,902,369
+MODEL BASTI,208,"Desh Bandhu Gupta Road, Block E, Jhandewalan Extension, Jhandewalan, New Delhi",297,268,138,24
+RANA PRATAP BAGH,209,"nullMaharaja Agarsen Marg, Block A, CC Colony, Kalyan Vihar, नई दिल्ली",987,999,627,252
+BAKHTAWAR PUR,210,"Unnamed Road, Bakhtawar Pur, Bakhtawarpur, Delhi",221,740,614,354
+ALIPUR,211,"Holambi Main Road, Iradat Nagar, Delhi",688,331,893,13
+SAHIBABAD DAULAT PUR,212,"Bawana Road, Sector 30, Rohini, Delhi",68,313,720,35
+BANKNER,213,"Lampur Road, Om Vihar Colony, Bankner, Delhi",489,712,978,583
+MALKAGANJ,214,"Doctor Bhim Rao Ambedkar Marg, Block H, Malka Ganj, Delhi",175,510,245,474
+JHARODA,215,"Unnamed Road, Bagiabad, Jharoda Majra Burari, Delhi",909,832,787,469
+MUKUND PUR,216,"0 Main Canal Road, Harit Vihar, Mukandpur Part 2, Mukundpur, Delhi",258,7,665,164
+BAWANA,217,"Auchandi Bawana Road, Daryapur, Bawana, Delhi",165,541,381,152
+BHALSWA,218,"nullTandoor Wali Gali, Swami Shraddhanand Park, Bhalswa Dairy, Jahangirpura, Delhi",440,512,103,630
+SAMAYPUR BADLI,219,"461, Block AG, Sanjay Gandhi Transport Nagar, Delhi",921,690,852,450
+JAHANGIRPURI-I,220,"Shah Alam Bandh Marg, Adarsh Nagar Extension, Adarsh Nagar, Delhi",728,845,926,996
+SARAI PIPAL THALA,221,"Srinagar - Kanyakumari Highway, Bhalswa Jahangirpuri, Jahangirpuri, Delhi",484,660,711,654
+MAHIPALPUR,222,"Sector E, Mahipalpur Village, Vasant Kunj, New Delhi",110,681,289,765
+KAPASHERA,223,"Urban Extension Road II, Indira Gandhi International Airport, New Delhi",734,752,70,755
+BIJWASAN,224,"Main Road, Bharthal, Sector 27 Dwarka, Bharthal, New Delhi",808,619,956,452
+ADARASH NAGAR,225,"0 Netaji Road, A Block, Block C, Adarsh Nagar, Delhi",772,327,748,209
+DHIR PUR,226,"Unnamed Road, Model Town, Delhi",807,814,784,99
+G.T.B. NAGAR,227,"300 Lok Marg, Dhaka Colony, Mukherjee Nagar, Delhi",524,76,349,336
+TIMAR PUR,228,"0 Lucknow Road, Banarsi Das Estate, Timarpur, Delhi",258,200,861,95
+RAJA GARDEN,229,"200 Road Number 28, Nehru Nagar, Shivaji Place, Basai Dara pur, Tagore Garden Extension, New Delhi",962,714,918,524
+RAGHUBIR NAGAR,230,"N494, Block N, Raghubir Nagar, Tagore Garden Extension, Delhi",66,41,887,424
+RAJOURI GARDEN,231,"G-17/6, Block G, Rajouri Garden, New Delhi",311,328,919,411
+NANGAL RAYA,232,"4-3, Mayapuri Industrial Area Phase II, Mayapuri, New Delhi",556,827,726,692
+HARI NAGAR,233,"nullSatguru Ram Singh Marg, Block B, Mayapuri Industrial Area Phase I, Mayapuri, New Delhi",213,627,959,927
+SUBHASH NAGAR,234,"113, Press Colony, Press Colony, Mayapuri, New Delhi",232,252,741,802
+MADHU VIHAR,235,"nullBharat Vihar Road, Block G, Raja Puri, Matiala, Delhi",227,932,321,880
+BUDH VIHAR,236,"nullRithala Road, Pocket A, Budh Vihar Phase I, Budh Vihar, Delhi",862,383,960,302
+NANGLOI JAT WEST,237,"121, Assam Timber Market, Gulshan Park, Mundka, Delhi",53,32,214,267
+NITHARI,238,"Ekta Marg, Sewak Park, Mubarakpur Dabas, Delhi",594,761,602,148
+SULTANPUR MAJRA,239,"nullSultanpuri, सुल्तानपुरी, Block E 4, Ratan Vihar, Sultanpuri, Delhi",829,71,763,568
+ROHINI NORTH,240,"37, Sector 15, Pocket 6, Sector 15B, Rohini, Delhi",860,278,768,11
+LIBAS PUR,241,"Foot Road, Libas Pur Village, Siraspur, Delhi",973,120,613,994
+BRAHAM PURI,242,"nullGali Number 2, Jagjeet Nagar, Shahdara, Delhi",137,259,555,469
+DICHAON KALAN,243,"Unnamed Road, Block B, Chanchal Park Colony, Dichaon Kalan, Delhi",207,204,161,129
+MOTI NAGAR,244,"Dhingra Park Trail, Punjabi Bagh Cooperative Housing Soceity, East Punjabi Bagh, Punjabi Bagh, Delhi",398,874,131,386
+MANGOLPURI,245,"N-1/17, Block M, Mangolpuri, Delhi",912,187,291,276
+LAJPAT NAGAR,246,"nullShiv Mandir Marg, Block G, Lajpat Nagar I, Lajpat Nagar, New Delhi",342,829,181,973
+PALAM,247,"9/2082, Pocket 2, Block RZ, Palam Colony, New Delhi",538,467,714,897
+KISHANGARH,248,"Unnamed Road, Harijan Basti, Rajokri, New Delhi",455,154,157,677
+VISHWASH NAGAR,249,"46, M.S Park, Vishwas Nagar, Shahdara, Delhi",701,998,789,584
+MADIPUR,250,"719B, Madipur JJ Colony, Block B, Janta Colony, Paschim Vihar, Delhi",906,683,815,470
+RAJENDER NAGAR,251,"A25, Block R, Pocket A, Rajender Nagar Part 1, New Rajinder Nagar, New Delhi",350,245,751,334
+R. K. PURAM,252,"813, Sector 1, RK Puram, New Delhi",522,44,369,65
+SAFDARJANG ENCLAVE,253,"0 Chaudhary Harsukh Marg, B6, Block B6, Humayunpur, Safdarjung Enclave, New Delhi",331,316,316,139
+HAUZ KHAS,254,"Squadron Leader Mohinder Kumar Jain Marg, Block B, New Delhi",153,739,606,234
+KOTLA MUBARAKPUR,255,"1700 Uday Chand Marg, Arya Basti, Zafar Nagar, Kotla Mubarakpur, South Extension I, New Delhi",9,235,223,884
+MANGLAPURI,256,"D-70, Mahavir Enclave I, Mahavir Enclave Part 2, Mahavir Enclave, New Delhi",925,564,680,417
+MANGOL PURI NORTH,257,"y 788, Block W, Mangolpur Khurd, Mangolpuri, नई दिल्ली",853,427,295,747
+TAGORE GARDEN,258,"Sant Sujan Singh Marg, JJ Colony, Block N, Tagore Garden, Tagore Garden Extension, New Delhi",135,400,397,833
+LADOSARAI,259,"Jogging Lane, Pocket B-C, Sector-A, Vasant Kunj, New Delhi",825,534,746,806
+NARELA,260,"Unnamed Road, Sector A1, Narela, Delhi",944,821,973,801
+BHALASWA JAHAGIR PUR,261,"Nangli Ibrahimpur Road, Kadipur, Kushak Colony, Kadipur Village, Delhi",835,174,145,396
+BURARI,262,"110084, Suleman Majra Burari, Burari, Delhi",141,415,853,31
+PATPARGANJ,263,"200 Pirwali Gali, Block P, Block P, Patparganj, New Delhi",760,673,262,918
+PANDAV NAGAR,264,"Noida Link Road, Nehru Enclave, Shakarpur Khas, New Delhi",869,366,996,270
+KISHAN KUNJ,265,"0 Lane Number 8, Krishan Kunj Extension Part 2, Block G, Vishwakarma Park, Laxmi Nagar, Delhi",559,348,523,863
+DHARAMPURA,266,"Yamuna Marginal Bandh Marg, Block A, Shastri Park, Jagjit Nagar, New Delhi",371,578,574,39
+NEW USMANPUR,267,"nullPanduk Shila Marg, Kaithwara Jagjivan Nagar, New Usmanpur, Shahdara, Delhi",913,855,904,430
+BHAJANPURA,268,"null5th Pustha Road, Block B, Bhajanpura, Shahdara, Delhi",275,856,393,606
+NEHRU VIHAR,269,"Street Number 2, Chandu Nagar, New Mustafabad, Delhi",547,568,454,184
+SAID UL AJAIB,270,"Unnamed Road, Asola Wild Life Sanctuary, Asola, New Delhi",66,815,885,428
+SANGAM VIHAR,271,"UER II, Asola Wild Life Sanctuary, Maidan Garhi, New Delhi",845,160,566,364
+MEHRAULI,272,"Anuvrat Marg, Butterfly Park, Qila Rai Pithora, Mehrauli, New Delhi",864,716,447,516
+SANGAM VIHAR WEST,273,"0 Pt Surya Pandey Marg, Devli, Block C, Devli, Sangam Vihar, New Delhi",611,647,760,863
+TIGRI,274,"295/5, Block L 2, Devli, Sangam Vihar, New Delhi",249,723,33,639
+ZAKIR NAGAR,275,"125/16, Jogabai Extension, Zakir Nagar, Okhla, New Delhi",318,22,879,195
+NAJAFGARH,276,"MCD Office, South delhi, Najafgarh Dhansa Road, Najafgarh Village, Najafgarh, Delhi",211,875,285,172
+JAHANGIR PURI -II,277,"700 Outer Ring Road, Bhalswa Jahangir Village, Jahangirpuri, नई दिल्ली",321,599,188,924
+KUNWAR SINGH NAGAR,278,"nullNangloi - Najafgarh Road, Brahampuri Colony, Kotla Vihar Phase 2, Ranhola, Delhi",538,840,676,142
+VIKAS NAGAR,279,"Nightingale Road, Budella, Vikaspuri, Delhi",238,836,940,899
+VIKAS PURI,280,"nullHastsal Road, Block A2, JJ Colony, Uttam Nagar, Delhi",612,383,903,250
+MAHAVIR NAGAR,281,"D915, New Mahavir Nagar, Tilak Nagar, Delhi",693,523,422,123
+DARYAGANJ,282,"Velodrome Road, Gandhi Smriti, Raj Ghat, New Delhi",220,767,333,290
+BALJIT NAGAR,283,"nullVijay Marg, Block B, Baljit Nagar, Patel Nagar, New Delhi",389,220,101,278
+NILOTHI,284,"8/2, Rajendra Park, Nangloi Extension, Kamruddin Nagar, Delhi",36,724,207,845
+PRATAP VIHAR,285,"y 1019, Dharam Enclave, Prem Nagar II, Prem Nagar, Delhi",932,833,872,918
+PREM NAGAR,286,"Prem Nagar - Rohini Road, Pratap Vihar Part III, Nithari, Baljit Vihar, Delhi",862,899,141,698
+SHASTRI NAGAR,287,"L47, Block L, Shastri Nagar, Delhi",85,541,115,481
+VISHNU GARDEN,288,"WZ287, DDA Colony, Chand Nagar, Vishnu Garden, Delhi",863,509,581,835
+TUKHMIR PUR,289,"Tukmirpur Road, Biharipur Extension, Biharipur Village, Biharipur, Delhi",277,356,638,459
+RAJ NAGAR,290,"Railway Road, Block F, Raj Nagar Extension, Raj Nagar, New Delhi",279,155,762,782

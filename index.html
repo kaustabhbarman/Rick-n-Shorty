@@ -35,6 +35,9 @@
 		d3.csv("data.csv", function(d) {
 		  return {
 		    value : d.VALUE,
+		    value2 : d.VALUE2,
+		    value3 : d.VALUE3,
+		    value4 : d.VALUE4,
 		    id : d.MOVEMENT_ID,
 
 		  };
@@ -49,6 +52,9 @@
 			for (x in statesData.features){
 
 					statesData.features[x].properties.density=rows[x].value;
+					statesData.features[x].properties.density2=rows[x].value2;
+					statesData.features[x].properties.density3=rows[x].value3;
+					statesData.features[x].properties.density4=rows[x].value4;
 
 				}
 
@@ -78,12 +84,19 @@
 	<div id="route" data-loc="ChIJcZcxM_TkDDkRtpFJvLUOKWs">
 		<iframe width="500" height="450" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJcZcxM_TkDDkRtpFJvLUOKWs&key=AIzaSyB4VIRQy7MBfOztHtc_SdlEk6x1YdS9rBw" allowfullscreen></iframe>
 	</div>
-	<dir id="location">
+	<div id="location">
 		<button onclick="changeLoc('ChIJcZcxM_TkDDkRtpFJvLUOKWs')">Location 1</button>  
 		<button onclick="changeLoc('ChIJKc0NNbbmDDkR_c2HSXA-MB4')">Location 2</button>  
 		<button onclick="changeLoc('ChIJi3fh1Vz9DDkRkQvh1gH36Q4')">Location 3</button>  
 		<button onclick="changeLoc('ChIJ__-vmMXjDDkRT66N2NCmf60')">Location 4</button>
-	</dir>
+	</div>
+	<div id="colour">
+		<button onclick="mapReload">AM Peak</button>
+		<button onclick="mapReload">Mid-Day</button>
+		<button onclick="mapReload">PM Peak</button>
+		<button onclick="mapReload">Evening</button>
+	</div>
+
 </div>
 
 <script type="text/javascript" src="JS/map.js"></script>

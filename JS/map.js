@@ -18,3 +18,7 @@ function changeLoc(location){
 
 	document.getElementById("route").innerHTML = reload;
 }
+
+function mapReload() {
+	// body...
+}
