@@ -5,6 +5,7 @@
 		id: 'mapbox.light'
 	}).addTo(map);
 
+	var marker;
 
 	// control that shows state info on hover
 	var info = L.control();
@@ -39,6 +40,7 @@
 			opacity: 1,
 			color: 'white',
 			dashArray: '3',
+			weight: 1, 
 			fillOpacity: 0.7,
 			fillColor: getColor(feature.properties.density)
 		};
@@ -72,11 +74,21 @@
 		map.fitBounds(e.target.getBounds());
 	}
 
+	function setMarker(e){
+		if (marker) {
+			map.removeLayer(marker);
+		}
+		var coord = e.latlng;
+		var lat = coord.lat;
+		var lon = coord.lng;
+		marker = L.marker([lat, lon]).addTo(map);
+	}
+
 	function onEachFeature(feature, layer) {
 		layer.on({
 			mouseover: highlightFeature,
 			mouseout: resetHighlight,
-			// click: zoomToFeature
+			click: setMarker
 		});
 
 		layer.on({
@@ -84,13 +96,16 @@
 		});
 	}
 
+	function removeExistingMarker(){
+		if (marker) {
+			map.removeLayer(marker);
+		}
+	}
+
 	geojson = L.geoJson(statesData, {
 		style: style,
 		onEachFeature: onEachFeature
 	}).addTo(map);
-
-	// map.attributionControl.addAttribution('Population data &copy; <a href="http://census.gov/">US Census Bureau</a>');
-
 
 	var legend = L.control({position: 'bottomright'});
 

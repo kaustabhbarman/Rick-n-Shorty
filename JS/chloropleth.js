@@ -16,42 +16,6 @@ var rows;
 
 		function addDensity(i) {
 			switch(i){
-				// case 1:
-				// 	for (x in statesData.features){
-				// 		statesData.features[x].properties.density=rows[x].value;
-				// 	}
-				// 	geojson = L.geoJson(statesData, {
-				// 		style: style,
-				// 		onEachFeature: onEachFeature
-				// 	}).addTo(map).bringToFront();
-				// 	break;
-				// case 2:
-				// 	for (x in statesData.features){
-				// 		statesData.features[x].properties.density=rows[x].value2;
-				// 	}
-				// 	geojson = L.geoJson(statesData, {
-				// 		style: style,
-				// 		onEachFeature: onEachFeature
-				// 	}).addTo(map).bringToFront();
-				// 	break;
-				// case 3:
-				// 	for (x in statesData.features){
-				// 		statesData.features[x].properties.density=rows[x].value3;
-				// 	}
-				// 	geojson = L.geoJson(statesData, {
-				// 		style: style,
-				// 		onEachFeature: onEachFeature
-				// 	}).addTo(map).bringToFront();
-				// 	break;
-				// case 4:
-				// 	for (x in statesData.features){
-				// 		statesData.features[x].properties.density=rows[x].value4;
-				// 	}
-				// 	geojson = L.geoJson(statesData, {
-				// 		style: style,
-				// 		onEachFeature: onEachFeature
-				// 	}).addTo(map).bringToFront();
-				// 	break;
 
 				case 1:
 					for (x in statesData.features){

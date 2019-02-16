@@ -17,8 +17,6 @@ function changeLoc(location){
 	reload += "src='https://www.google.com/maps/embed/v1/place?q=place_id:"+location+"&key=AIzaSyB4VIRQy7MBfOztHtc_SdlEk6x1YdS9rBw' allowfullscreen></iframe>";
 
 	document.getElementById("route").innerHTML = reload;
-}
 
-function mapReload() {
-	// body...
+	removeExistingMarker();
 }
