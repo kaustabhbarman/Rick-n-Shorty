@@ -1,4 +1,4 @@
-# map_test
+# Rick-&-Shorty
 A data visualization project to show regions of Delhi, India with the most auto-rickshaw requests at four different peak times of a day using a choloropleth map. Clicking on the chloropleth map will show the route to reach the selected place from the origin(assumed to be the current location of the driver). The project is helpful for auto-rickshaw drivers to decide where to go in order to maximize their probability to find customers. 
 
 # About the Project
