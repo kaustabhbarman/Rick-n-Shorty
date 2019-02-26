@@ -9,5 +9,5 @@ A data visualization project to show regions of Delhi, India with the most auto-
 
 # Tech Implementation
 - Mapbox API has been used to display the world map on the left side.
-- JEOJSON data has been parsed into Leaflet.js library to highlight the state Delhi on the map.
-- Number of requests from CSV file has further been added to JEOJSON object based on which Leaflet's chloropleth functions has colorized the map. 
+- GEOJSON data has been parsed into Leaflet.js library to highlight the state Delhi on the map.
+- Number of requests from CSV file has further been added to GEOJSON object based on which Leaflet's chloropleth functions has colorized the map. 
